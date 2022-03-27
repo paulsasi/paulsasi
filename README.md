@@ -44,7 +44,7 @@ Icons: https://simpleicons.org/
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" alt="pandas"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matplotlib/matplotlib.png" alt="matplotlib"/></code>
+<code><img height="32" src="https://frankgalandev.com/wp-content/uploads/2021/12/logo_matplotlib.png" alt="matplotlib"/></code>
 
 **Web Frameworks**
 
