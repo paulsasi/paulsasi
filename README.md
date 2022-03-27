@@ -40,7 +40,7 @@ Icons: https://simpleicons.org/
 **Data libraries**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="pytorch"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn"/></code>
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas"/></code>
